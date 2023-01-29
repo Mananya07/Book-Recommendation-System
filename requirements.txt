@@ -1,0 +1,8 @@
+flask
+numpy
+pandas
+uvicorn
+fastapi
+
+run the following code in terminal from your folder:
+python -m uvicorn app:app --reload
